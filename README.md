@@ -1,4 +1,4 @@
-# pop.house
+# p💥p.house
 site 
 theme: jekyll-theme-minimal
 title: Octocat's homepage
